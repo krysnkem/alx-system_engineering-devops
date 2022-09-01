@@ -1,1 +1,1 @@
-Respository for leaning software engineering
+Learn the basics of shell
